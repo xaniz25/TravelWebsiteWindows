@@ -1,0 +1,7 @@
+C:\repos\TravelExperts4\TravelExpertsClass\bin\Debug\TravelExpertsClass.dll.config
+C:\repos\TravelExperts4\TravelExpertsClass\bin\Debug\TravelExpertsClass.dll
+C:\repos\TravelExperts4\TravelExpertsClass\bin\Debug\TravelExpertsClass.pdb
+C:\repos\TravelExperts4\TravelExpertsClass\obj\Debug\TravelExpertsClass.csprojAssemblyReference.cache
+C:\repos\TravelExperts4\TravelExpertsClass\obj\Debug\TravelExpertsClass.csproj.CoreCompileInputs.cache
+C:\repos\TravelExperts4\TravelExpertsClass\obj\Debug\TravelExpertsClass.dll
+C:\repos\TravelExperts4\TravelExpertsClass\obj\Debug\TravelExpertsClass.pdb
